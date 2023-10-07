@@ -1,28 +1,4 @@
-# Hello World for the Web Template
-This project provides template code for Hello World for the Web and is based on 
-[W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
-
-## Author
-Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
-
-## Credits
-[W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-## Improvements
-Add English language and UTF-8 tags by modifying index.html so that it looks like this:
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-	<title>Page Title</title>
-</head>
-<body>
-	<h1>Caroline Siedlarczyk</h1>
-	<p>August 30, 2023</p>
-</body>
-</html>
-```
+<html>
+<body style="background-color:powdergreen;">
+	<h2>Hello World For the Web</h2>
+	<h2>Caroline Siedlarczyk'</h2>
